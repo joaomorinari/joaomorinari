@@ -31,12 +31,13 @@ Em foco agora
 🌐 Desenvolvendo projetos para colocar meus conhecimentos em prática
 💻 Construindo meu portfólio e registrando minha evolução aqui no GitHub
 🇺🇸 Evoluindo meu inglês para o mercado de tecnologia
-Projetos em destaque
-Projeto	Descrição
-Projetos Java	Exercícios e projetos desenvolvidos durante meus estudos de Java
-Projetos Web	Projetos utilizando HTML, CSS, JavaScript e TypeScript
-Projetos com Banco de Dados	Aplicações utilizando SQL e PostgreSQL
-Projetos acadêmicos	Trabalhos e sistemas desenvolvidos durante o curso técnico
+
+Aqui estão alguns dos repositórios que utilizo para registrar as atividades, exercícios e conteúdos desenvolvidos ao longo dos meus estudos e cursos.
+
+Repositório	Curso	Conteúdo
+java-fiap	☕ Java — FIAP	Atividades e exercícios desenvolvidos durante o curso de Java
+typescript-senac	🔷 TypeScript — SENAC	Atividades e exercícios de desenvolvimento com TypeScript
+javascript-senac	🟨 JavaScript — SENAC	Atividades e exercícios desenvolvidos durante o curso de JavaScript
 
 Este GitHub reúne meus projetos, exercícios e experimentos desenvolvidos durante minha formação. A ideia é registrar minha evolução e transformar meus estudos em projetos práticos.
 
