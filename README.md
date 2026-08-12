@@ -1,85 +1,110 @@
-Olá, eu sou o João Guilherme
-Desenvolvedor em formação · Estudante de Análise e Desenvolvimento de Sistemas · Java
+# Olá, eu sou o João Guilherme
 
-Java · JavaScript · TypeScript · Python · SQL · Git · GitHub
+### Desenvolvedor em formação · Estudante de Análise e Desenvolvimento de Sistemas · Java
+
+`Java` · `JavaScript` · `TypeScript` · `Python` · `SQL` · `Git` · `GitHub`
 
 📍 Novo Hamburgo, RS · 🇧🇷
 
-Sobre mim
+---
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e venho construindo minha trajetória na área de tecnologia através de estudos, cursos e projetos práticos.
+## Sobre mim
 
-Atualmente, meu principal foco é o desenvolvimento de software, com destaque para Java e Programação Orientada a Objetos. Recentemente concluí meu curso de Desenvolvimento Java pela FIAP, onde aprofundei meus conhecimentos na linguagem e em conceitos fundamentais de programação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e venho construindo minha trajetória na área de tecnologia através de estudos, cursos e projetos práticos.
 
-Também possuo conhecimentos em JavaScript, TypeScript, Python, SQL, HTML e CSS, além de experiência com ferramentas como Git, GitHub, VS Code e IntelliJ IDEA.
+Atualmente, meu principal foco é o desenvolvimento de software, com destaque para **Java** e **Programação Orientada a Objetos**. Recentemente concluí o curso de **Desenvolvimento Java pela FIAP**, onde aprofundei meus conhecimentos na linguagem e em conceitos fundamentais de programação.
+
+Também possuo conhecimentos em **JavaScript, TypeScript, Python, SQL, HTML e CSS**, além de experiência com ferramentas como **Git, GitHub, VS Code e IntelliJ IDEA**.
 
 Meu objetivo é continuar evoluindo como desenvolvedor e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
-About me (English)
+### About me
 
-I'm a Systems Analysis and Development student from Brazil, currently building my career in software development through courses, projects and hands-on practice.
+I'm a **Systems Analysis and Development student** from Brazil, currently building my career in software development through courses, projects and hands-on practice.
 
-My current focus is Java development and Object-Oriented Programming. I recently completed a Java Development course at FIAP, strengthening my knowledge of Java and software development fundamentals.
+My current focus is **Java development and Object-Oriented Programming**. I recently completed a **Java Development course at FIAP**, strengthening my knowledge of Java and software development fundamentals.
 
-I also have experience with JavaScript, TypeScript, Python, SQL, HTML and CSS, as well as tools such as Git, GitHub, VS Code and IntelliJ IDEA.
+I also have experience with **JavaScript, TypeScript, Python, SQL, HTML and CSS**, as well as tools such as **Git, GitHub, VS Code and IntelliJ IDEA**.
 
 My goal is to start my professional career in technology, gain practical experience and continue growing as a software developer.
 
-Em foco agora
-☕ Evoluindo em Java e Programação Orientada a Objetos
-🗄️ Aprofundando conhecimentos em SQL e bancos de dados
-🌐 Desenvolvendo projetos para colocar meus conhecimentos em prática
-💻 Construindo meu portfólio e registrando minha evolução aqui no GitHub
-🇺🇸 Evoluindo meu inglês para o mercado de tecnologia
+---
+
+## Em foco agora
+
+* ☕ Evoluindo em **Java** e Programação Orientada a Objetos
+* 🗄️ Aprofundando conhecimentos em **SQL e bancos de dados**
+* 🌐 Desenvolvendo projetos para colocar meus conhecimentos em prática
+* 💻 Construindo meu portfólio e registrando minha evolução no GitHub
+* 🇺🇸 Evoluindo meu **inglês** para o mercado de tecnologia
+
+---
+
+## 📚 Cursos e atividades
 
 Aqui estão alguns dos repositórios que utilizo para registrar as atividades, exercícios e conteúdos desenvolvidos ao longo dos meus estudos e cursos.
 
-Repositório	Curso	Conteúdo
-java-fiap	☕ Java — FIAP	Atividades e exercícios desenvolvidos durante o curso de Java
-typescript-senac	🔷 TypeScript — SENAC	Atividades e exercícios de desenvolvimento com TypeScript
-javascript-senac	🟨 JavaScript — SENAC	Atividades e exercícios desenvolvidos durante o curso de JavaScript
+| Repositório                                                         | Curso                 | Conteúdo                                                            |
+| ------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------- |
+| [**java-fiap**](https://github.com/joaogdv/java-fiap)               | ☕ Java — FIAP         | Atividades e exercícios desenvolvidos durante o curso de Java       |
+| [**typescript-senac**](https://github.com/joaogdv/typescript-senac) | 🔷 TypeScript — SENAC | Atividades e exercícios de desenvolvimento com TypeScript           |
+| [**javascript-senac**](https://github.com/joaogdv/javascript-senac) | 🟨 JavaScript — SENAC | Atividades e exercícios desenvolvidos durante o curso de JavaScript |
 
-Este GitHub reúne meus projetos, exercícios e experimentos desenvolvidos durante minha formação. A ideia é registrar minha evolução e transformar meus estudos em projetos práticos.
+> Estes repositórios mostram parte da minha trajetória de aprendizado e permitem acompanhar minha evolução através das atividades que desenvolvi em cada curso.
 
-Stack
+---
 
-Linguagens
+## 🛠️ Stack
 
-Java · JavaScript · TypeScript · Python · HTML · CSS
+### Linguagens
 
-Banco de dados
+`Java` · `JavaScript` · `TypeScript` · `Python` · `HTML` · `CSS`
 
-SQL · PostgreSQL · SQLite
+### Banco de dados
 
-Ferramentas
+`SQL` · `PostgreSQL` · `SQLite`
 
-Git · GitHub · IntelliJ IDEA · VS Code
+### Ferramentas
 
-Também estudo
+`Git` · `GitHub` · `IntelliJ IDEA` · `VS Code`
 
-POO · UML · APIs · Lógica de Programação · Desenvolvimento Web
+### Conhecimentos
 
-Formação e cursos
+`POO` · `UML` · `APIs` · `Lógica de Programação` · `Desenvolvimento Web`
 
-🎓 Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas
+---
 
-☕ Desenvolvimento Java — FIAP
+## 🎓 Formação e cursos
+
+**Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas**
+
+**Desenvolvimento Java — FIAP**
 Curso concluído
 
-📚 Desenvolvimento com Javascript -SENAC
-Curso concluído
+**JavaScript — SENAC**
 
-📚 Backend com Typescript -SENAC
+**Backend com TypeScript — SENAC**
 
+**3 Mil Talentos TI**
 
-Objetivo
+**UML e documentação de casos de uso — FIAP**
 
-Meu objetivo é iniciar minha carreira profissional na área de tecnologia, conquistar uma oportunidade de estágio em desenvolvimento de software e continuar evoluindo através de projetos e experiências práticas.
+---
 
-Tenho interesse principalmente em oportunidades relacionadas a desenvolvimento de software, backend e Java.
+## 🎯 Objetivo
 
-Vamos conversar?
-💼 LinkedIn
-📧 Email
+Meu objetivo é iniciar minha carreira profissional na área de tecnologia, conquistar uma oportunidade de **estágio em desenvolvimento de software** e continuar evoluindo através de projetos e experiências práticas.
 
-"Aprender, construir e evoluir — um projeto de cada vez."
+Tenho interesse principalmente em oportunidades relacionadas a **desenvolvimento de software, backend e Java**.
+
+---
+
+## 📫 Vamos conversar?
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-guilherme-morinari-0b56b2290/)
+* 📧 [Email](mailto:joaoguilherme.morinari@gmail.com)
+* 💻 [GitHub](https://github.com/joaogdv)
+
+---
+
+*"Aprender, construir e evoluir — um projeto de cada vez."*
